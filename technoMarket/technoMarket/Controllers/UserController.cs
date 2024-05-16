@@ -1,6 +1,7 @@
-﻿using technoMarket.Models;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using TechnoMarket.Application.Services;
+using TechnoMarket.Domain.Models;
 
 
 
@@ -10,16 +11,14 @@ namespace technoMarket.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        private static List<User> usuarios = new List<User>(); //Creo una lista que va a contener los Usuarios
-
         [HttpGet("GetAll")]//   https://User/GetAll
-
-
-
         //IEnumerable es una interfaz en .NET que proporciona una forma de iterar sobre una colección de elementos
         public ActionResult<IEnumerable<User>> GetAll() //Darle el formato a un EndPoint, devuelve el un statuserror
         {
-            var response = usuarios.Where(a => a.Active).ToList();
+
+            UserServices userServices = new UserServices(); //
+
+            var response = userServices.GetUserList();
 
             if (response.Count () < 1)
             {
@@ -31,13 +30,39 @@ namespace technoMarket.Controllers
         }
 
         [HttpGet("GetById/{id}")]
-        
         public ActionResult<User?> GetById([FromRoute] int id) 
         { 
-            User? user = usuarios.Where(p => p.Id == id && p.Active).FirstOrDefault(); //Este método devuelve el primer elemento de la secuencia que cumple con las condiciones especificadas en el Where.
+        
+            UserServices userServices = new UserServices();
+            var user = userServices.GetUserById(id);
 
+            if (user != null)
+            {
+                return NotFound("No se Encontaron Datos en la DB");
 
+            }
+            return Ok(user);
         }
+
+        [HttpPost("Register")]
+        public ActionResult Register([FromBody] User user)
+        {
+            UserServices userServices = new UserServices();
+            var flag = userServices.RegisterUser(user);
+
+           if (!flag)
+           {
+                return BadRequest("Usuario existente");
+           }
+
+            string baseUrl = $"{HttpContext.Request.Scheme}://{HttpContext.Request.Host.ToUriComponent()}";
+            string apiAndEndpointUrl = $"api/User/GetById";
+            string locationUrl = $"{baseUrl}/{apiAndEndpointUrl}/{user.Id}";
+
+            return Created(locationUrl, user);
+        }
+
+
 
     }
 }

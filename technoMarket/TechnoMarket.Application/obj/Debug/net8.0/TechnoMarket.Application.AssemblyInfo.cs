@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("technoMarket")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TechnoMarket.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+092c522b3e48ad243f50680ade43db842efc6412")]
-[assembly: System.Reflection.AssemblyProductAttribute("technoMarket")]
-[assembly: System.Reflection.AssemblyTitleAttribute("technoMarket")]
+[assembly: System.Reflection.AssemblyProductAttribute("TechnoMarket.Application")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TechnoMarket.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
