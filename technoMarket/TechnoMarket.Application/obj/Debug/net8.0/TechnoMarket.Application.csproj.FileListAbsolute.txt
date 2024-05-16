@@ -1,0 +1,16 @@
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\bin\Debug\net8.0\TechnoMarket.Application.deps.json
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\bin\Debug\net8.0\TechnoMarket.Application.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\bin\Debug\net8.0\TechnoMarket.Application.pdb
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\bin\Debug\net8.0\TechnoMarket.Domain.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\bin\Debug\net8.0\TechnoMarket.Domain.pdb
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMarket.Application.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMarket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMarket.Application.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMarket.Application.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMarket.Application.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMarket.Application.sourcelink.json
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMa.971AFC4C.Up2Date
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMarket.Application.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\refint\TechnoMarket.Application.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\TechnoMarket.Application.pdb
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Application\obj\Debug\net8.0\ref\TechnoMarket.Application.dll

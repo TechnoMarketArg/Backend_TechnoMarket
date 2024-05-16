@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TechnoMarket.Application/1.0.0": {
+        "dependencies": {
+          "TechnoMarket.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TechnoMarket.Application.dll": {}
+        }
+      },
+      "TechnoMarket.Domain/1.0.0": {
+        "runtime": {
+          "TechnoMarket.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TechnoMarket.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TechnoMarket.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

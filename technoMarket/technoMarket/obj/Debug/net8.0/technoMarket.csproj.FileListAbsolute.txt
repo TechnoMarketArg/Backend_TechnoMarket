@@ -64,3 +64,7 @@ C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarke
 C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\technoMarket\obj\Debug\net8.0\technoMa.887B1CD1.Up2Date
 C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\technoMarket\obj\Debug\net8.0\technoMarket.genruntimeconfig.cache
 C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\technoMarket\obj\Debug\net8.0\ref\technoMarket.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\technoMarket\bin\Debug\net8.0\TechnoMarket.Application.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\technoMarket\bin\Debug\net8.0\TechnoMarket.Domain.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\technoMarket\bin\Debug\net8.0\TechnoMarket.Application.pdb
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\technoMarket\bin\Debug\net8.0\TechnoMarket.Domain.pdb

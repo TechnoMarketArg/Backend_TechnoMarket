@@ -10,7 +10,7 @@ namespace TechnoMarket.Domain.Models
 {
     public class User
     {
-        public int Id { get; }
+        public int Id { get; set; }
 
         public string FirstName { get; set; }
 
@@ -29,9 +29,9 @@ namespace TechnoMarket.Domain.Models
         public string Region { get; set; }
         public string PostalCode { get; set; }
 
-        public virtual ICollection<Role> Roles { get; set; }
+        public virtual Role RoleUser { get; set; } = new Role(3, "Customer");
 
-        public virtual Store Store { get; set; }
+        public virtual Store? Store { get; set; } = null;
 
         public List<int> ProductsPurchased { get; set; } = new List<int>();
 
@@ -39,10 +39,6 @@ namespace TechnoMarket.Domain.Models
 
         public HashSet<int> StoresFavotires { get; set; } = new HashSet<int>();
 
-        public User()
-        {
-            Roles = new HashSet<Role>();
-            Roles.Add(new Role(3, "Customer"));
-        }
+
     }
 }

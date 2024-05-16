@@ -10,6 +10,7 @@ namespace TechnoMarket.Application.Services
     public class UserServices
     {
         private static List<User> Users = new List<User>(); //Creo una lista que va a contener los Users
+        int IdNum = 0;
 
         //Metodo para endpoint GET
         public IEnumerable<User?> GetUserList()
@@ -38,6 +39,12 @@ namespace TechnoMarket.Application.Services
             Users.Add(user);
 
             return true;
+        }
+
+        public int IdCreate() 
+        {
+            
+            return IdNum + 1; 
         }
     }
 }

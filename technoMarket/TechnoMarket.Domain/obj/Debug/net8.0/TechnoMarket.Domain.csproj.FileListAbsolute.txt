@@ -1,0 +1,12 @@
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\bin\Debug\net8.0\TechnoMarket.Domain.deps.json
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\bin\Debug\net8.0\TechnoMarket.Domain.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\bin\Debug\net8.0\TechnoMarket.Domain.pdb
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\TechnoMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\TechnoMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\TechnoMarket.Domain.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\TechnoMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\TechnoMarket.Domain.sourcelink.json
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\TechnoMarket.Domain.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\refint\TechnoMarket.Domain.dll
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\TechnoMarket.Domain.pdb
+C:\Users\sebas\OneDrive\Escritorio\TechnoMarket\Backend_TechnoMarket\technoMarket\TechnoMarket.Domain\obj\Debug\net8.0\ref\TechnoMarket.Domain.dll
