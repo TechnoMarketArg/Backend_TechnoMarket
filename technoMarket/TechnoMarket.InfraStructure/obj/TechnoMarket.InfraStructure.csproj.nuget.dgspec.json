@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.InfraStructure\\TechnoMarket.InfraStructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Application\\TechnoMarket.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Application\\TechnoMarket.Application.csproj",
+        "projectName": "TechnoMarket.Application",
+        "projectPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Application\\TechnoMarket.Application.csproj",
+        "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj": {
+                "projectPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj",
+        "projectName": "TechnoMarket.Domain",
+        "projectPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj",
+        "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.InfraStructure\\TechnoMarket.InfraStructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.InfraStructure\\TechnoMarket.InfraStructure.csproj",
+        "projectName": "TechnoMarket.InfraStructure",
+        "projectPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.InfraStructure\\TechnoMarket.InfraStructure.csproj",
+        "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.InfraStructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Application\\TechnoMarket.Application.csproj": {
+                "projectPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Application\\TechnoMarket.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

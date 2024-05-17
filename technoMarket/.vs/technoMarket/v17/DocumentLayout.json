@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\TechnoMarket\\Backend_TechnoMarket\\technoMarket\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36932177-4E3D-4EBB-93D3-CAC398D684C7}|TechnoMarket.InfraStructure\\TechnoMarket.InfraStructure.csproj|c:\\users\\augus\\desktop\\tpi_lc3_back\\backend_technomarket\\technomarket\\technomarket.infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36932177-4E3D-4EBB-93D3-CAC398D684C7}|TechnoMarket.InfraStructure\\TechnoMarket.InfraStructure.csproj|solutionrelative:technomarket.infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.InfraStructure\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TechnoMarket.InfraStructure\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.InfraStructure\\Data\\UserRepository.cs",
+              "RelativeToolTip": "TechnoMarket.InfraStructure\\Data\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:33:49.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

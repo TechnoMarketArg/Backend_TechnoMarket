@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebas\\OneDrive\\Escritorio\\TechnoMarket\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj": {}
+    "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebas\\OneDrive\\Escritorio\\TechnoMarket\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj": {
+    "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebas\\OneDrive\\Escritorio\\TechnoMarket\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj",
         "projectName": "TechnoMarket.Domain",
-        "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\TechnoMarket\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj",
-        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\TechnoMarket\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\obj\\",
+        "projectPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\TechnoMarket.Domain.csproj",
+        "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\augus\\Desktop\\TPI_LC3_Back\\Backend_TechnoMarket\\technoMarket\\TechnoMarket.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

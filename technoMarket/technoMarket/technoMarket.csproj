@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TechnoMarket.Application\TechnoMarket.Application.csproj" />
-    <ProjectReference Include="..\TechnoMarket.Domain\TechnoMarket.Domain.csproj" />
   </ItemGroup>
 
 </Project>
